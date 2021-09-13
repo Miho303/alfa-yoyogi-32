@@ -17,15 +17,15 @@ const app = Vue.createApp({
       *    q3: 'おおお',
       */
       correctAnswer: {
-        MISSION1: {
+        stage1: {
           q1: 'apple',
         },
-        MISSION2: {
+        stage2: {
           q1: '32759',
           // q2: 'えええ',
           // q3: 'おおお'
         },
-        MISSION3: {
+        stage3: {
           q1: 'ううう',
           // q2: 'かかか',
           // q3: 'ききき',
